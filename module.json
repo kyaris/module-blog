@@ -1,0 +1,16 @@
+{
+    "name": "Kyais Blog",
+
+    "description": "Module for implementing a simple blog",
+
+    "slug": "kyaris/blog",
+
+    "namespace": "Kyaris\\Blog\\",
+
+    "version": "1.0.0",
+
+    "author": {
+        "name": "Daniel Berry",
+        "email": "danielberrytn@gmail.com"
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "name": "kyaris/blog",
+    "type": "kyaris-module",
+    "description": "Module for implementing a simple blog",
+    "authors": [
+        {
+            "name": "Daniel Berry",
+            "email": "danielberrytn@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0",
+        "illuminate/support": "5.0.*"
+    },
+    "autoload": {
+        "psr-4": {
+            "Kyaris\\Blog\\": "src/"
+        }
+    },
+    "extra": {
+        "component": "module"
+    },
+    "minimum-stability": "dev"
+}
