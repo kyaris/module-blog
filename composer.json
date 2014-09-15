@@ -8,9 +8,16 @@
             "email": "danielberrytn@gmail.com"
         }
     ],
+    "repositories": [
+        {
+            "type": "git",
+            "url": "git@github.com:kyaris/composer.git"
+        }
+    ],
     "require": {
         "php": ">=5.4.0",
-        "illuminate/support": "5.0.*"
+        "illuminate/support": "5.0.*",
+        "kyaris/composer": "dev-master"
     },
     "autoload": {
         "psr-4": {
